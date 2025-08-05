@@ -22,5 +22,5 @@
       "bump-patch-for-minor-pre-major": true
     }
   },
-  "bootstrap-sha": "main",
+  "bootstrap-sha": "main"
 }
