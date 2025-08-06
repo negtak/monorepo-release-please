@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/negtak/monorepo-release-please/compare/app1-v0.1.1...app1/v0.1.2) (2025-08-06)
+
+
+### Features
+
+* **app1:** fix startup message ([c759e06](https://github.com/negtak/monorepo-release-please/commit/c759e060edb2d3875cd4206473277186bc87ec35))
+
 ## [0.1.1](https://github.com/negtak/monorepo-release-please/compare/app1-v0.1.0...app1-v0.1.1) (2025-08-06)
 
 
