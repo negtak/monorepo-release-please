@@ -7,24 +7,17 @@
     "shared": {
       "release-type": "go",
       "component": "shared",
-      "changelog-path": "CHANGELOG.md",
-      "bump-minor-pre-major": true,
-      "bump-patch-for-minor-pre-major": true
+      "changelog-path": "CHANGELOG.md"
     },
     "app1": {
       "release-type": "go",
       "component": "app1",
-      "changelog-path": "CHANGELOG.md",
-      "bump-minor-pre-major": true,
-      "bump-patch-for-minor-pre-major": true
+      "changelog-path": "CHANGELOG.md"
     },
     "app2": {
       "release-type": "go",
       "component": "app2-com", 
-      "changelog-path": "CHANGELOG.md",
-      "bump-minor-pre-major": true,
-      "bump-patch-for-minor-pre-major": true
+      "changelog-path": "CHANGELOG.md"
     }
-  },
-  "bootstrap-sha": "main"
+  }
 }
