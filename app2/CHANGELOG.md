@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.2](https://github.com/negtak/monorepo-release-please/compare/app2-com/v0.1.1...app2-com/v0.1.2) (2025-08-06)
+
+
+### Features
+
+* **app2:** fix multiply to 7x8 ([26c7d7d](https://github.com/negtak/monorepo-release-please/commit/26c7d7db79eeac92b9b11e71b4263e3ecdef4878))
+* **app2:** fix multiply to 7x8 ([f321e46](https://github.com/negtak/monorepo-release-please/commit/f321e46112eda7d132793d613859946488b8df00))
+* **app2:** fix statup message ([7c3f226](https://github.com/negtak/monorepo-release-please/commit/7c3f22666692744a14535a3b8ae9479a48a3e727))
+* **app2:** fix statup message ([b51c2e3](https://github.com/negtak/monorepo-release-please/commit/b51c2e307fe9293fec26b1356ddfcc0e89496372))
+* initial commit ([0ea290d](https://github.com/negtak/monorepo-release-please/commit/0ea290d9c2dd7c5f9bea89fb3777d5eeaff78c18))
+* **test2:** fix multiply ([c3491b7](https://github.com/negtak/monorepo-release-please/commit/c3491b7145dea05831d7ac0884b18589dbead53c))
+* **test2:** fix multiply ([c49a380](https://github.com/negtak/monorepo-release-please/commit/c49a380fa95b46384dff382480d2d9bffe7b0228))
+
 ## 1.0.0 (2025-08-06)
 
 
