@@ -12,6 +12,6 @@ func main() {
 	msg := shared.FormatMessage("Hello from App2!!")
 	fmt.Println(msg)
 
-	result := shared.Multiply(5, 8)
-	fmt.Printf("5 × 8 = %d\n", result)
+	result := shared.Multiply(6, 8)
+	fmt.Printf("6 × 8 = %d\n", result)
 }
