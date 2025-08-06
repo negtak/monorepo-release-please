@@ -18,7 +18,7 @@
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true
     },
-    "app2": {
+    "app2-test": {
       "release-type": "go",
       "package-name": "app2", 
       "changelog-path": "CHANGELOG.md",
