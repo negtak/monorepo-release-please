@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("App1 Starting...")
+	fmt.Println("App1 Starting....")
 
 	msg := shared.FormatMessage("Hello from App1!!")
 	fmt.Println(msg)
