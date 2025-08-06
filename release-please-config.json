@@ -20,7 +20,7 @@
     },
     "app2": {
       "release-type": "go",
-      "component": "app2", 
+      "component": "app2-com", 
       "changelog-path": "CHANGELOG.md",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true
