@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/negtak/monorepo-release-please/compare/app1/v0.1.2...app1/v0.1.3) (2025-08-06)
+
+
+### Features
+
+* **app1:** fix first startup message ([4bfafca](https://github.com/negtak/monorepo-release-please/commit/4bfafca0566e1ec762a2c7c61b547cd507107a57))
+* **app1:** fix first startup message ([34b31a8](https://github.com/negtak/monorepo-release-please/commit/34b31a8fd36f2465062ad845a32c0ef4aef68b94))
+
 ## [0.1.2](https://github.com/negtak/monorepo-release-please/compare/app1-v0.1.1...app1/v0.1.2) (2025-08-06)
 
 
