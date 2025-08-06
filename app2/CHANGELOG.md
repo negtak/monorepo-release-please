@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/negtak/monorepo-release-please/compare/app2-com/v0.1.2...app2-com/v0.1.3) (2025-08-06)
+
+
+### Features
+
+* **app2:** fix multiply 9x9 ([6a1c749](https://github.com/negtak/monorepo-release-please/commit/6a1c7491d03e90d6d00d8cd58efb6b5dc9968954))
+* **app2:** fix multiply 9x9 ([af71e23](https://github.com/negtak/monorepo-release-please/commit/af71e2387f837b91ec129d25559d41b2b47a40ad))
+
 ## [0.1.2](https://github.com/negtak/monorepo-release-please/compare/app2-com/v0.1.1...app2-com/v0.1.2) (2025-08-06)
 
 
