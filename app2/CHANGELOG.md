@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.0](https://github.com/negtak/monorepo-release-please/compare/app2-com/v0.1.3...app2-com/v0.2.0) (2025-08-06)
+
+
+### Features
+
+* **app2:** fix message ([7bba7e1](https://github.com/negtak/monorepo-release-please/commit/7bba7e1aa4ecf945460dd75952d039f2f21b889c))
+* **app2:** fix message ([7d64c17](https://github.com/negtak/monorepo-release-please/commit/7d64c176744522bcaa433d1e965a0c860bfccbbb))
+
 ## [0.1.3](https://github.com/negtak/monorepo-release-please/compare/app2-com/v0.1.2...app2-com/v0.1.3) (2025-08-06)
 
 
