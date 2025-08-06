@@ -6,21 +6,21 @@
   "packages": {
     "shared": {
       "release-type": "go",
-      "package-name": "shared",
+      "component": "shared",
       "changelog-path": "CHANGELOG.md",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true
     },
     "app1": {
       "release-type": "go",
-      "package-name": "app1",
+      "component": "app1",
       "changelog-path": "CHANGELOG.md",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true
     },
     "app2": {
       "release-type": "go",
-      "package-name": "app2-test", 
+      "component": "app2", 
       "changelog-path": "CHANGELOG.md",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true
