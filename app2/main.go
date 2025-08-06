@@ -9,7 +9,7 @@ import (
 func main() {
 	fmt.Println("App2 Starting...")
 
-	msg := shared.FormatMessage("Hello from App2!!")
+	msg := shared.FormatMessage("Hello from App3!!")
 	fmt.Println(msg)
 
 	result := shared.Multiply(9, 9)
